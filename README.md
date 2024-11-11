@@ -1,4 +1,4 @@
-\
+
 # **Retro Desktop Portfolio - A Windows XP Vibe**
 
 Welcome to my **Retro Desktop Portfolio**, an indie-inspired, cool, and aesthetic website that mimics the iconic Windows XP interface. This interactive website uses a nostalgic desktop experience, where each folder icon reveals a content window—just like the old days!
